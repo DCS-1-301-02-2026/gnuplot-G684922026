@@ -25,6 +25,7 @@
 
 ```gnuplot {cmd=true output="html"}
 set terminal svg
+plot sin(x)
 
 ```
 
